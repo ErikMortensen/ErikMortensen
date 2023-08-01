@@ -38,6 +38,7 @@ Siempre busco nuevos desafíos y oportunidades para seguir aprendiendo y crecien
 <h2> Mis proyectos </h2>
 <h4> Proyecto Final de Henry E-Commerce </h4>
 <p>Tuve la satisfacción de trabajar en un emocionante proyecto grupal llamado Bodu Games, es un e-commerce de juegos de mesa. En el backend utilizamos Node.js con Express y Sequelize. Para la interfaz, usamos Vite + React, Redux y Chakra UI, complementado con CSS puro. El trabajo en equipo fue desafiante, requerimos de mucha planificación y constante comunicación entre todos los integrantes del equipo, aprendimos a identificar y valorar las fortalezas de cada uno y distribuir el trabajo para aprovecharlas al máximo.</p>
+[Bodu Games](https://github.com/ErikMortensen/Bodu_Games_front)
 <br>
 <h2> Conecta con migo <h2>
 <a href = 'https://www.linkedin.com/in/erik-mortensen-fullstack-developer/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
@@ -48,10 +49,6 @@ Siempre busco nuevos desafíos y oportunidades para seguir aprendiendo y crecien
 <img align="left" src=""/>
       <img align="center" src=""/>
       <img align="right" src=""/> -->
-
-<br>
-
-
 <br>
 <footer align='center'>Gracias por la visita!</footer>
 
