@@ -44,12 +44,15 @@ Siempre busco nuevos desafíos y oportunidades para seguir aprendiendo y crecien
 <a href = 'https://www.linkedin.com/in/erik-mortensen-fullstack-developer/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
 <br>
 <br>
+<img width = '32px' align= 'center' src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-512.png"/>
+mortensenerikm@gmail.com
+<br>
+<br>
 <!-- <h2> My Projects  <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 70px> </h2>
-
+<br>
 <img align="left" src=""/>
       <img align="center" src=""/>
       <img align="right" src=""/> -->
-<br>
 <footer align='center'>Gracias por la visita!</footer>
 
       
