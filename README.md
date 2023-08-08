@@ -25,6 +25,7 @@ Siempre busco nuevos desafíos y oportunidades para seguir aprendiendo y crecien
 <img width ='32px' src ='https://cdn.icon-icons.com/icons2/2148/PNG/512/nextjs_icon_132160.png'>
 <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'>
 <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/express.svg'>
+<img width ='32px' src ='https://cdn.icon-icons.com/icons2/2699/PNG/512/nestjs_logo_icon_168087.png'>
 <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/firebase.svg'>
 <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/git.svg'>
 <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg'>
